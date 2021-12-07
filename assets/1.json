@@ -1,0 +1,19 @@
+{
+  "name": "Tator Tot Outside",
+  "symbol": "",
+  "image": "1.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "1.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "5cY7DHWM8HfMQxXv8SVrJXgDAQXFvDgiyxH9NZJucNiA",
+        "share": 100
+      }
+    ]
+  }
+}
